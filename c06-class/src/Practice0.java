@@ -1,4 +1,4 @@
-// Prática 0 de Java
+// Prática 0 de Java - Autodidata
 
 import java.util.Scanner;
 

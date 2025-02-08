@@ -1,4 +1,4 @@
-// Pratica 1 - Tipos de Variávies
+// Pratica 1 - Tipos de Variávies - Autodidata
 
 import java.util.Scanner;
 
