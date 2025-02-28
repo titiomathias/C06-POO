@@ -1,8 +1,8 @@
 public class Conta {
     String nome;
-    Float saldo;
-    Integer conta;
-    Float limite;
+    float saldo;
+    int conta;
+    float limite;
 
     float sacar(float valor){
         if (saldo > valor){
